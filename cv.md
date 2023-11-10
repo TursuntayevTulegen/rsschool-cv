@@ -1,4 +1,4 @@
-![logoCV](https://github.com/TursuntayevTulegen/rsschool-cv/assets/90391140/b2fb88b5-a2f6-417b-a18e-24173e7115b7)
+![logoCV](https://github.com/TursuntayevTulegen/rsschool-cv/blob/gh-pages/avatar.jpg)
 
 #### Name and surname:
 Tulegen Tursuntayev
